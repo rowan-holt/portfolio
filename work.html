@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>작업 | 정우민</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="work">
+  <main id="main" class="page page-wide">
+    <h1 data-text="work.title"></h1>
+    <div class="filters" id="filters" role="group"></div>
+    <p class="status" id="status" hidden></p>
+    <ul class="gallery" id="gallery"></ul>
+  </main>
+  <dialog class="lightbox" id="lightbox">
+    <button type="button" class="lightbox-btn lightbox-close" id="lightbox-close">&times;</button>
+    <button type="button" class="lightbox-btn lightbox-prev" id="lightbox-prev">&lsaquo;</button>
+    <figure class="lightbox-figure">
+      <img id="lightbox-img" alt="">
+      <figcaption id="lightbox-caption"></figcaption>
+    </figure>
+    <button type="button" class="lightbox-btn lightbox-next" id="lightbox-next">&rsaquo;</button>
+  </dialog>
+  <script src="js/site.js"></script>
+  <script src="js/gallery.js"></script>
+</body>
+</html>

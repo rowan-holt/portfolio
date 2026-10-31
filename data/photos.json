@@ -1,0 +1,35 @@
+[
+  {
+    "id": "portrait-01",
+    "category": "portrait",
+    "file": "assets/placeholder/portrait-01.svg",
+    "thumb": "assets/placeholder/portrait-01.svg",
+    "width": 1200,
+    "height": 1600,
+    "title": "자리표시자 인물 사진",
+    "caption": "실제 사진으로 교체될 예시 항목입니다.",
+    "year": 2026
+  },
+  {
+    "id": "event-01",
+    "category": "event",
+    "file": "assets/placeholder/event-01.svg",
+    "thumb": "assets/placeholder/event-01.svg",
+    "width": 1600,
+    "height": 1067,
+    "title": "자리표시자 행사 사진",
+    "caption": "실제 사진으로 교체될 예시 항목입니다.",
+    "year": 2026
+  },
+  {
+    "id": "wedding-01",
+    "category": "wedding",
+    "file": "assets/placeholder/wedding-01.svg",
+    "thumb": "assets/placeholder/wedding-01.svg",
+    "width": 1600,
+    "height": 1200,
+    "title": "자리표시자 웨딩 사진",
+    "caption": "실제 사진으로 교체될 예시 항목입니다.",
+    "year": 2026
+  }
+]

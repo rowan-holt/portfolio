@@ -1,0 +1,65 @@
+{
+  "lang": "ko",
+  "site": {
+    "name": "정우민",
+    "role": "포토그래퍼",
+    "description": "포토그래퍼 정우민의 사진 갤러리",
+    "skip": "본문으로 건너뛰기",
+    "footer": "사진의 저작권은 정우민에게 있습니다."
+  },
+  "nav": {
+    "label": "주요 메뉴",
+    "home": "홈",
+    "work": "작업",
+    "about": "소개",
+    "contact": "연락처"
+  },
+  "categories": {
+    "portrait": "프로필 인물",
+    "event": "행사·보도",
+    "staged": "연출",
+    "wedding": "웨딩 스냅",
+    "ai": "AI·합성"
+  },
+  "home": {
+    "hero_photo_id": "portrait-01",
+    "intro": "한 줄 소개를 여기에 적어 주세요.",
+    "categories_title": "카테고리"
+  },
+  "work": {
+    "title": "작업",
+    "filter_label": "카테고리 선택",
+    "all": "전체",
+    "empty": "이 카테고리에는 아직 사진이 없습니다.",
+    "error": "사진 목록을 불러오지 못했습니다."
+  },
+  "lightbox": {
+    "close": "닫기",
+    "prev": "이전 사진",
+    "next": "다음 사진"
+  },
+  "about": {
+    "title": "소개",
+    "lead": "현재 회사의 유일한 포토그래퍼로 기획·섭외·촬영·보정·아카이빙까지 전담하고 있습니다.",
+    "timeline_title": "경력",
+    "timeline": [
+      { "period": "0000 – 현재", "text": "회사명과 역할을 여기에 적어 주세요." },
+      { "period": "0000 – 0000", "text": "이전 경력을 여기에 적어 주세요." }
+    ],
+    "scope_title": "담당 업무",
+    "scope": ["기획", "섭외", "촬영", "보정", "아카이빙"],
+    "gear_title": "장비",
+    "gear": ["카메라를 여기에 적어 주세요.", "렌즈를 여기에 적어 주세요.", "조명을 여기에 적어 주세요."],
+    "why_title": "사진을 찍는 이유",
+    "why": "사진을 찍는 이유를 여기에 적어 주세요."
+  },
+  "contact": {
+    "title": "연락처",
+    "lead": "아래 연락처로 편하게 연락해 주세요.",
+    "email_label": "이메일",
+    "email": "email@example.com",
+    "instagram_label": "인스타그램",
+    "instagram_handle": "@instagram",
+    "instagram_url": "https://www.instagram.com/"
+  }
+}

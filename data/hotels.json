@@ -1,0 +1,752 @@
+{
+  "_readme": "status: ok = 공식 출처로 확인 / unverified = 미확인. tub: yes / no / unlisted(공식 페이지 설비 목록에 욕조 없음) / unverified. verdicts는 정우민이 직접 판정해서 채움.",
+  "hotels": [
+    {
+      "id": "l7-myeongdong",
+      "name": {
+        "zh": "L7 明洞 by LOTTE",
+        "ko": "L7 명동 바이 롯데"
+      },
+      "name_en": "L7 MYEONGDONG by LOTTE HOTELS",
+      "address": {
+        "zh": "首爾市中區退溪路137",
+        "ko": "서울 중구 퇴계로 137"
+      },
+      "official": "https://www.lottehotel.com/myeongdong-l7/en.html",
+      "checkin": "15:00 / 12:00",
+      "facts": {
+        "station": {
+          "status": "ok",
+          "value": {
+            "zh": "4號線明洞站 9號出口正前方",
+            "ko": "4호선 명동역 9번 출구 바로 앞"
+          },
+          "source": "https://www.lottehotel.com/myeongdong-l7/ko/about/location",
+          "checked": "2026-11-07",
+          "short": {
+            "zh": "明洞站9號出口 正前方",
+            "ko": "명동역 9번 출구 바로 앞"
+          }
+        },
+        "exit_elevator": {
+          "status": "unverified",
+          "value": {
+            "zh": "9號出口是否有電梯：未確認。飯店官方建議行李多時改走7號出口的手扶梯",
+            "ko": "9번 출구 엘리베이터 여부 미확인. 호텔 공식 안내: 짐이 많으면 7번 출구 에스컬레이터 이용"
+          },
+          "source": "https://www.lottehotel.com/myeongdong-l7/ko/about/location",
+          "checked": "2026-11-07"
+        },
+        "airport_bus": {
+          "status": "ok",
+          "value": {
+            "zh": "仁川機場巴士6001、6015：飯店正門附近國民銀行前上車。約80–90分鐘，成人₩17,000",
+            "ko": "인천공항 6001·6015번: 호텔 정문 근처 국민은행 앞 승차. 80~90분, 성인 17,000원"
+          },
+          "source": "https://www.lottehotel.com/myeongdong-l7/en/about/faq",
+          "checked": "2026-11-07"
+        },
+        "smoking": {
+          "status": "ok",
+          "value": {
+            "zh": "全客房禁菸",
+            "ko": "전 객실 금연"
+          },
+          "source": "https://www.lottehotel.com/myeongdong-l7/en/rooms/standard-room",
+          "checked": "2026-11-07"
+        },
+        "front_24h": {
+          "status": "ok",
+          "value": {
+            "zh": "櫃檯在3樓，客房撥0可24小時聯絡",
+            "ko": "프런트 3층, 객실 전화 0번으로 24시간 연결"
+          },
+          "source": "https://www.lottehotel.com/myeongdong-l7/en/about/faq",
+          "checked": "2026-11-07"
+        },
+        "self_checkin": {
+          "status": "unverified",
+          "value": {
+            "zh": "未確認",
+            "ko": "미확인"
+          },
+          "source": "",
+          "checked": "2026-11-07"
+        },
+        "languages": {
+          "status": "unverified",
+          "value": {
+            "zh": "日語・中文服務：未確認",
+            "ko": "일본어·중국어 응대 미확인"
+          },
+          "source": "",
+          "checked": "2026-11-07"
+        },
+        "luggage": {
+          "status": "ok",
+          "value": {
+            "zh": "3樓櫃檯免費寄放",
+            "ko": "3층 프런트 무료 보관"
+          },
+          "source": "https://www.lottehotel.com/myeongdong-l7/en/about/faq",
+          "checked": "2026-11-07"
+        }
+      },
+      "rooms": {
+        "source": "https://www.lottehotel.com/myeongdong-l7/en/rooms",
+        "checked": "2026-11-07",
+        "list": [
+          {
+            "name": "Standard Room",
+            "size": "25.1",
+            "tub": "unlisted",
+            "sep": "unverified",
+            "note": {
+              "zh": "官方頁浴室設備列有免治馬桶，未列浴缸",
+              "ko": "공식 페이지 욕실 설비에 비데만 있고 욕조 없음"
+            },
+            "source": "https://www.lottehotel.com/myeongdong-l7/en/rooms/standard-room"
+          },
+          {
+            "name": "Standard Family Twin",
+            "size": "25.1",
+            "tub": "unverified",
+            "sep": "unverified"
+          },
+          {
+            "name": "Superior Room (City / Cathedral / Namsan)",
+            "size": "25.1",
+            "tub": "unverified",
+            "sep": "unverified"
+          },
+          {
+            "name": "Superior Family Twin",
+            "size": "25.1",
+            "tub": "unverified",
+            "sep": "unverified"
+          },
+          {
+            "name": "Locomix Suite",
+            "size": "50.2",
+            "tub": "yes",
+            "sep": "unverified",
+            "source": "https://www.lottehotel.com/myeongdong-l7/en/rooms/locomix-suite-room"
+          },
+          {
+            "name": "Lourbans Suite",
+            "size": "50.2",
+            "tub": "unverified",
+            "sep": "unverified"
+          },
+          {
+            "name": "Loasis Suite",
+            "size": "50.2",
+            "tub": "unverified",
+            "sep": "unverified"
+          }
+        ]
+      },
+      "verdicts": [],
+      "booking": {
+        "agoda": "",
+        "trip": "",
+        "klook": ""
+      }
+    },
+    {
+      "id": "lotte-city-myeongdong",
+      "name": {
+        "zh": "樂天城市飯店 明洞",
+        "ko": "롯데시티호텔 명동"
+      },
+      "name_en": "LOTTE CITY HOTEL MYEONGDONG",
+      "address": {
+        "zh": "首爾市中區三一大路362",
+        "ko": "서울 중구 삼일대로 362"
+      },
+      "official": "https://www.lottehotel.com/myeongdong-city/en.html",
+      "checkin": "15:00 / 11:00",
+      "facts": {
+        "station": {
+          "status": "ok",
+          "value": {
+            "zh": "最近的是乙支路3街站（2・3號線）：往乙支路入口方向的「乙支2街」2・3號出口步行1分鐘；1號出口步行3分鐘。明洞站5號出口步行約10分鐘",
+            "ko": "가장 가까운 역은 을지로3가역(2·3호선): 을지로입구 방향 '을지2가' 2·3번 출구 도보 1분, 1번 출구 도보 3분. 명동역 5번 출구는 도보 약 10분"
+          },
+          "source": "https://www.lottehotel.com/myeongdong-city/ko/about/location",
+          "checked": "2026-11-07",
+          "short": {
+            "zh": "乙支路3街站 乙支2街2・3號出口 步行1分",
+            "ko": "을지로3가역 을지2가 2·3번 출구 도보 1분"
+          }
+        },
+        "exit_elevator": {
+          "status": "ok",
+          "value": {
+            "zh": "乙支2街2・3號出口有電梯（飯店官方標示）",
+            "ko": "을지2가 2·3번 출구 엘리베이터 있음(호텔 공식 표기)"
+          },
+          "source": "https://www.lottehotel.com/myeongdong-city/ko/about/location",
+          "checked": "2026-11-07"
+        },
+        "airport_bus": {
+          "status": "ok",
+          "value": {
+            "zh": "仁川機場巴士6015：乙支路2街 Pine Avenue 前下車，步行約3分鐘。成人₩17,000",
+            "ko": "인천공항 6015번: 을지로2가 파인에비뉴 앞 하차, 도보 약 3분. 성인 17,000원"
+          },
+          "source": "https://www.lottehotel.com/myeongdong-city/en/about/faq",
+          "checked": "2026-11-07"
+        },
+        "smoking": {
+          "status": "ok",
+          "value": {
+            "zh": "全館禁菸，飯店外設有吸菸區",
+            "ko": "건물 전체 금연, 호텔 밖 흡연구역 있음"
+          },
+          "source": "https://www.lottehotel.com/myeongdong-city/en/about/faq",
+          "checked": "2026-11-07"
+        },
+        "front_24h": {
+          "status": "ok",
+          "value": {
+            "zh": "櫃檯在2樓，客房撥0可24小時聯絡",
+            "ko": "프런트 2층, 객실 전화 0번으로 24시간 연결"
+          },
+          "source": "https://www.lottehotel.com/myeongdong-city/en/about/faq",
+          "checked": "2026-11-07"
+        },
+        "self_checkin": {
+          "status": "unverified",
+          "value": {
+            "zh": "未確認",
+            "ko": "미확인"
+          },
+          "source": "",
+          "checked": "2026-11-07"
+        },
+        "languages": {
+          "status": "unverified",
+          "value": {
+            "zh": "日語・中文服務：未確認",
+            "ko": "일본어·중국어 응대 미확인"
+          },
+          "source": "",
+          "checked": "2026-11-07"
+        },
+        "luggage": {
+          "status": "ok",
+          "value": {
+            "zh": "櫃檯免費寄放",
+            "ko": "프런트 무료 보관"
+          },
+          "source": "https://www.lottehotel.com/myeongdong-city/en/about/faq",
+          "checked": "2026-11-07"
+        }
+      },
+      "rooms": {
+        "source": "https://www.lottehotel.com/myeongdong-city/en/rooms",
+        "checked": "2026-11-07",
+        "list": [
+          {
+            "name": "Standard Room",
+            "size": "22.0",
+            "tub": "unlisted",
+            "sep": "unverified",
+            "note": {
+              "zh": "官方頁浴室設備列有淋浴間，未列浴缸",
+              "ko": "공식 페이지 욕실 설비에 샤워부스만 있고 욕조 없음"
+            },
+            "source": "https://www.lottehotel.com/myeongdong-city/en/rooms/standard-room"
+          },
+          {
+            "name": "Superior Room",
+            "size": "25.0",
+            "tub": "yes",
+            "sep": "unverified",
+            "note": {
+              "zh": "依房型為浴缸或淋浴間，Family Twin 只有淋浴間",
+              "ko": "타입에 따라 욕조 또는 샤워부스, 패밀리 트윈은 샤워부스만"
+            },
+            "source": "https://www.lottehotel.com/myeongdong-city/en/rooms/superior-room"
+          },
+          {
+            "name": "Superior Accessible Double",
+            "size": "25.0",
+            "tub": "unverified",
+            "sep": "unverified"
+          },
+          {
+            "name": "Deluxe Family Twin",
+            "size": "34.0",
+            "tub": "unverified",
+            "sep": "unverified"
+          },
+          {
+            "name": "Premier Family Triple",
+            "size": "52.0",
+            "tub": "unverified",
+            "sep": "unverified"
+          },
+          {
+            "name": "Superior Suite",
+            "size": "52.0",
+            "tub": "unverified",
+            "sep": "unverified"
+          }
+        ]
+      },
+      "verdicts": [],
+      "booking": {
+        "agoda": "",
+        "trip": "",
+        "klook": ""
+      }
+    },
+    {
+      "id": "sotetsu-fresa-inn-myeongdong",
+      "name": {
+        "zh": "相鐵 Fresa Inn 首爾明洞",
+        "ko": "소테츠 프레사 인 서울 명동"
+      },
+      "name_en": "Sotetsu Fresa Inn Seoul Myeong-dong",
+      "address": {
+        "zh": "首爾市中區明洞街48",
+        "ko": "서울 중구 명동길 48"
+      },
+      "official": "https://sotetsu-hotels.com/en/fresa-inn/myeong-dong/",
+      "checkin": "15:00 / 12:00",
+      "facts": {
+        "station": {
+          "status": "ok",
+          "value": {
+            "zh": "4號線明洞站8號出口步行5分鐘；2號線乙支路入口站5號出口步行5分鐘",
+            "ko": "4호선 명동역 8번 출구 도보 5분, 2호선 을지로입구역 5번 출구 도보 5분"
+          },
+          "source": "https://sotetsu-hotels.com/en/fresa-inn/myeong-dong/access/",
+          "checked": "2026-11-07",
+          "short": {
+            "zh": "明洞站8號出口 步行5分",
+            "ko": "명동역 8번 출구 도보 5분"
+          }
+        },
+        "exit_elevator": {
+          "status": "unverified",
+          "value": {
+            "zh": "未確認",
+            "ko": "미확인"
+          },
+          "source": "",
+          "checked": "2026-11-07"
+        },
+        "airport_bus": {
+          "status": "ok",
+          "value": {
+            "zh": "仁川機場巴士6001「明洞入口」下車步行4分鐘；6015「ibis Ambassador」下車步行5分鐘",
+            "ko": "인천공항 6001번 '명동입구' 하차 도보 4분, 6015번 '이비스 앰배서더' 하차 도보 5분"
+          },
+          "source": "https://sotetsu-hotels.com/en/fresa-inn/myeong-dong/access/",
+          "checked": "2026-11-07"
+        },
+        "smoking": {
+          "status": "ok",
+          "value": {
+            "zh": "全客房禁菸，館內與飯店周邊都沒有吸菸區",
+            "ko": "전 객실 금연, 건물 안과 주변 모두 흡연구역 없음"
+          },
+          "source": "https://sotetsu-hotels.com/en/fresa-inn/myeong-dong/faq/",
+          "checked": "2026-11-07"
+        },
+        "front_24h": {
+          "status": "ok",
+          "value": {
+            "zh": "沒有門禁，但凌晨1:00–5:00正門上鎖，需按對講機呼叫櫃檯",
+            "ko": "통금 없음. 단 새벽 1~5시 정문 잠김, 인터폰으로 프런트 호출"
+          },
+          "source": "https://sotetsu-hotels.com/en/fresa-inn/myeong-dong/faq/",
+          "checked": "2026-11-07"
+        },
+        "self_checkin": {
+          "status": "ok",
+          "value": {
+            "zh": "有自助入住・退房機",
+            "ko": "셀프 체크인·체크아웃 기기 있음"
+          },
+          "source": "https://sotetsu-hotels.com/en/fresa-inn/myeong-dong/",
+          "checked": "2026-11-07"
+        },
+        "languages": {
+          "status": "unverified",
+          "value": {
+            "zh": "日語・中文服務：未確認",
+            "ko": "일본어·중국어 응대 미확인"
+          },
+          "source": "",
+          "checked": "2026-11-07"
+        },
+        "luggage": {
+          "status": "ok",
+          "value": {
+            "zh": "13樓自助置物櫃，首次存放起24小時內免費",
+            "ko": "13층 셀프 락커, 첫 보관부터 24시간 무료"
+          },
+          "source": "https://sotetsu-hotels.com/en/fresa-inn/myeong-dong/faq/",
+          "checked": "2026-11-07"
+        },
+        "payment": {
+          "status": "ok",
+          "value": {
+            "zh": "只收無現金付款，不收現金",
+            "ko": "현금 결제 불가(카드 등 비현금만)"
+          },
+          "source": "https://sotetsu-hotels.com/en/fresa-inn/myeong-dong/",
+          "checked": "2026-11-07"
+        }
+      },
+      "rooms": {
+        "source": "https://sotetsu-hotels.com/en/fresa-inn/myeong-dong/rooms/",
+        "checked": "2026-11-07",
+        "list": [
+          {
+            "name": "Standard Double",
+            "size": "12.3–14.4",
+            "tub": "no",
+            "sep": "unverified",
+            "note": {
+              "zh": "只有淋浴",
+              "ko": "샤워만"
+            }
+          },
+          {
+            "name": "Superior Double",
+            "size": "18.9",
+            "tub": "yes",
+            "sep": "yes"
+          },
+          {
+            "name": "Standard Twin",
+            "size": "15.4–19.3",
+            "tub": "yes",
+            "sep": "unverified"
+          },
+          {
+            "name": "Superior Twin",
+            "size": "20.5–21.1",
+            "tub": "yes",
+            "sep": "yes"
+          },
+          {
+            "name": "Comfort Twin",
+            "size": "21.1",
+            "tub": "yes",
+            "sep": "yes"
+          },
+          {
+            "name": "Deluxe Twin",
+            "size": "27.5",
+            "tub": "yes",
+            "sep": "yes"
+          },
+          {
+            "name": "Corner Twin",
+            "size": "28.7",
+            "tub": "unverified",
+            "sep": "unverified"
+          },
+          {
+            "name": "Universal Double",
+            "size": "27.8",
+            "tub": "no",
+            "sep": "unverified",
+            "note": {
+              "zh": "只有淋浴，需電話預約",
+              "ko": "샤워만, 전화 예약"
+            }
+          }
+        ]
+      },
+      "verdicts": [],
+      "booking": {
+        "agoda": "",
+        "trip": "",
+        "klook": ""
+      }
+    },
+    {
+      "id": "solaria-nishitetsu-myeongdong",
+      "name": {
+        "zh": "Solaria 西鐵飯店 首爾明洞",
+        "ko": "솔라리아 니시테츠 호텔 서울 명동"
+      },
+      "name_en": "Solaria Nishitetsu Hotel Seoul Myeongdong",
+      "address": {
+        "zh": "首爾市中區明洞8街27（大廳在21樓）",
+        "ko": "서울 중구 명동8길 27 (로비 21층)"
+      },
+      "official": "https://solaria-seoul.nnr-h.com/",
+      "checkin": "15:00 / 12:00",
+      "facts": {
+        "station": {
+          "status": "ok",
+          "value": {
+            "zh": "4號線明洞站8號出口約160m、步行約3分鐘；2號線乙支路入口站5號出口約509m、步行約7分鐘",
+            "ko": "4호선 명동역 8번 출구 약 160m 도보 3분, 2호선 을지로입구역 5번 출구 약 509m 도보 7분"
+          },
+          "source": "https://solaria-seoul.nnr-h.com/faq",
+          "checked": "2026-11-07",
+          "short": {
+            "zh": "明洞站8號出口 步行3分",
+            "ko": "명동역 8번 출구 도보 3분"
+          }
+        },
+        "exit_elevator": {
+          "status": "unverified",
+          "value": {
+            "zh": "未確認",
+            "ko": "미확인"
+          },
+          "source": "",
+          "checked": "2026-11-07"
+        },
+        "airport_bus": {
+          "status": "ok",
+          "value": {
+            "zh": "仁川機場巴士6001、6015「明洞站」下車，到飯店約294m、步行約3分鐘。金浦機場目前沒有直達明洞的巴士",
+            "ko": "인천공항 6001·6015번 '명동역' 하차, 호텔까지 약 294m 도보 3분. 김포공항발 명동행 리무진은 현재 없음"
+          },
+          "source": "https://solaria-seoul.nnr-h.com/faq",
+          "checked": "2026-11-07"
+        },
+        "smoking": {
+          "status": "ok",
+          "value": {
+            "zh": "全客房禁菸，21樓大廳層有吸菸處",
+            "ko": "전 객실 금연, 21층 로비층에 흡연실"
+          },
+          "source": "https://solaria-seoul.nnr-h.com/faq",
+          "checked": "2026-11-07"
+        },
+        "front_24h": {
+          "status": "ok",
+          "value": {
+            "zh": "24小時有員工。午夜12點–早上6點1樓正門關閉，按對講機或刷房卡進入",
+            "ko": "24시간 직원 상주. 밤 12시~오전 6시 1층 정문 닫힘, 인터폰 또는 카드키"
+          },
+          "source": "https://solaria-seoul.nnr-h.com/faq",
+          "checked": "2026-11-07"
+        },
+        "self_checkin": {
+          "status": "unverified",
+          "value": {
+            "zh": "未確認",
+            "ko": "미확인"
+          },
+          "source": "",
+          "checked": "2026-11-07"
+        },
+        "languages": {
+          "status": "ok",
+          "value": {
+            "zh": "日本人或日語流利的員工24小時常駐。中文服務：未確認",
+            "ko": "일본인 또는 일본어 능통 직원 24시간 상주. 중국어 미확인"
+          },
+          "source": "https://solaria-seoul.nnr-h.com/stay",
+          "checked": "2026-11-07"
+        },
+        "luggage": {
+          "status": "ok",
+          "value": {
+            "zh": "入住前、退房後都可寄放",
+            "ko": "체크인 전·체크아웃 후 모두 보관 가능"
+          },
+          "source": "https://solaria-seoul.nnr-h.com/faq",
+          "checked": "2026-11-07"
+        }
+      },
+      "rooms": {
+        "source": "https://solaria-seoul.nnr-h.com/stay",
+        "checked": "2026-11-07",
+        "all_note": {
+          "zh": "官方：全客房都是附「洗身區」的日式浴室（浴缸＋另外的淋浴區）和免治馬桶",
+          "ko": "공식: 전 객실 씻는 공간이 따로 있는 일본식 욕실(욕조+별도 샤워 공간)과 비데"
+        },
+        "list": [
+          {
+            "name": "Single",
+            "size": "21.8",
+            "tub": "yes",
+            "sep": "unverified"
+          },
+          {
+            "name": "Double",
+            "size": "21.8–24.6",
+            "tub": "yes",
+            "sep": "unverified"
+          },
+          {
+            "name": "Twin",
+            "size": "25.2–39.5",
+            "tub": "yes",
+            "sep": "unverified"
+          },
+          {
+            "name": "Triple",
+            "size": "39.5",
+            "tub": "yes",
+            "sep": "unverified"
+          },
+          {
+            "name": "Premium",
+            "size": "31.4–48.7",
+            "tub": "yes",
+            "sep": "unverified"
+          }
+        ]
+      },
+      "verdicts": [],
+      "booking": {
+        "agoda": "",
+        "trip": "",
+        "klook": ""
+      }
+    },
+    {
+      "id": "aloft-myeongdong",
+      "name": {
+        "zh": "首爾明洞雅樂軒",
+        "ko": "알로프트 서울 명동"
+      },
+      "name_en": "Aloft by Marriott Seoul Myeongdong",
+      "address": {
+        "zh": "首爾市中區南大門路56",
+        "ko": "서울 중구 남대문로 56"
+      },
+      "official": "https://www.marriott.com/en-us/hotels/selmo-aloft-seoul-myeongdong/overview/",
+      "checkin": "15:00 / 12:00",
+      "facts": {
+        "station": {
+          "status": "unverified",
+          "value": {
+            "zh": "官方只寫「往明洞站方向步行」、金浦出發可在乙支路1街站或明洞站下車。出口編號與步行時間：未確認",
+            "ko": "공식 안내는 '명동역 방향으로 도보', 김포에서 을지로입구·명동역 하차뿐. 출구 번호·도보 시간 미확인"
+          },
+          "source": "https://www.marriott.com/en-us/hotels/selmo-aloft-seoul-myeongdong/overview/",
+          "checked": "2026-11-07"
+        },
+        "exit_elevator": {
+          "status": "unverified",
+          "value": {
+            "zh": "未確認",
+            "ko": "미확인"
+          },
+          "source": "",
+          "checked": "2026-11-07"
+        },
+        "airport_bus": {
+          "status": "ok",
+          "value": {
+            "zh": "仁川機場巴士6015「ibis 明洞」下車後往明洞站方向步行；或6701「明洞（Marine Center）」下車走地下道過馬路。距離：未確認",
+            "ko": "인천공항 6015번 '이비스 명동' 하차 후 명동역 방향 도보, 또는 6701번 '명동(해양센터)' 하차 후 지하도 이용. 거리 미확인"
+          },
+          "source": "https://www.marriott.com/en-us/hotels/selmo-aloft-seoul-myeongdong/overview/",
+          "checked": "2026-11-07"
+        },
+        "smoking": {
+          "status": "ok",
+          "value": {
+            "zh": "全館禁菸（Smoke Free Property）",
+            "ko": "건물 전체 금연(Smoke Free Property)"
+          },
+          "source": "https://www.marriott.com/en-us/hotels/selmo-aloft-seoul-myeongdong/overview/",
+          "checked": "2026-11-07"
+        },
+        "front_24h": {
+          "status": "unverified",
+          "value": {
+            "zh": "未確認",
+            "ko": "미확인"
+          },
+          "source": "",
+          "checked": "2026-11-07"
+        },
+        "self_checkin": {
+          "status": "unverified",
+          "value": {
+            "zh": "未確認",
+            "ko": "미확인"
+          },
+          "source": "",
+          "checked": "2026-11-07"
+        },
+        "languages": {
+          "status": "unverified",
+          "value": {
+            "zh": "日語・中文服務：未確認",
+            "ko": "일본어·중국어 응대 미확인"
+          },
+          "source": "",
+          "checked": "2026-11-07"
+        },
+        "min_age": {
+          "status": "ok",
+          "value": {
+            "zh": "入住最低年齡20歲",
+            "ko": "체크인 최소 나이 20세"
+          },
+          "source": "https://www.marriott.com/en-us/hotels/selmo-aloft-seoul-myeongdong/overview/",
+          "checked": "2026-11-07"
+        }
+      },
+      "rooms": {
+        "source": "https://www.marriott.com/en-us/hotels/selmo-aloft-seoul-myeongdong/rooms/",
+        "checked": "2026-11-07",
+        "list": [
+          {
+            "name": "Aloft King / Twin",
+            "size": "22",
+            "tub": "unlisted",
+            "sep": "unverified",
+            "note": {
+              "zh": "設備列有淋浴、免治馬桶。無障礙 King 房有浴缸",
+              "ko": "설비 목록에 샤워·비데. 장애인 객실 King은 욕조 있음"
+            }
+          },
+          {
+            "name": "Aloft Triple",
+            "size": "22",
+            "tub": "unverified",
+            "sep": "unverified"
+          },
+          {
+            "name": "Savvy King / Twin",
+            "size": "22",
+            "tub": "unlisted",
+            "sep": "unverified"
+          },
+          {
+            "name": "Urban Suite King / Twin",
+            "size": "33",
+            "tub": "unlisted",
+            "sep": "unverified"
+          },
+          {
+            "name": "Breezy Suite King / Twin",
+            "size": "42",
+            "tub": "unverified",
+            "sep": "unverified",
+            "note": {
+              "zh": "獨立客廳",
+              "ko": "거실 분리"
+            }
+          }
+        ]
+      },
+      "verdicts": [],
+      "booking": {
+        "agoda": "",
+        "trip": "",
+        "klook": ""
+      }
+    }
+  ]
+}
